@@ -20,7 +20,7 @@ A professional console application that integrates relational (MySQL) and docume
 * **Security:** `python-dotenv` for environment variables management.
 
 ## Project Structure
-* `!Project_GH.ipynb` — Main application logic and UI.
+* `movie_search_app.ipynb` — Main application logic and UI.
 * `.env.example` — Template for required credentials (Host, User, Password).
 * `requirements.txt` — List of Python dependencies.
 
